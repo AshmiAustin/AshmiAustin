@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshmiAustin
 - 👀 I’m interested in simple coding , web designing,project managent..
-- 🌱 I’m currently learning ..btech 2nd year, learning java.
+- 🌱 I’m currennty a BTech Graduate
 - 💞️ I’m looking to collaborate on doing mini projects, management
 - 📫 How to reach me ..ashmiaustin@gmail.com.
 
